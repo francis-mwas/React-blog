@@ -11,8 +11,8 @@ export default class extends Component {
         </div>
         <div className="footer-bottom-msg">
           <p>
-            Handcrafted in the U.S.A. Unless otherwise noted, all code is free
-            to use under the MIT License.
+            Created with love by Francis Mwangi from Nairobi. Unless otherwise
+            noted, all code is free to use under the MIT License.
           </p>
         </div>
       </footer>
